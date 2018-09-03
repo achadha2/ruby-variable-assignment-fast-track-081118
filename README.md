@@ -3,7 +3,6 @@
 ## Objectives
 
 1. Assign a local variable.
-
 ## Instructions
 
 You will assign a local variable named `greeting` that is equal to `"Hello World"`.
@@ -25,7 +24,7 @@ Failures:
 
 Finished in 0.00075 seconds (files took 0.0839 seconds to load)
 1 example, 1 failure
-```
+
 
 To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
 
@@ -34,3 +33,6 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>
+
+greeting = "hello World
+"

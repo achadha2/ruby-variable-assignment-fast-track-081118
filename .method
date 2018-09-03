@@ -1,0 +1,27 @@
+dog = "Wolf"
+my_age = 30
+some_array = [1,2,"fish"]
+
+state = "New York"
+
+# delaring a method in ruby
+# here is the method definition:
+
+def add_one_to_age(age)
+puts age
+  age += 1 
+  return age
+  puts "my new age is #{age}"
+end
+
+#calling or invoking a method
+add_one_to_age(my_age)
+
+puts "value of my age is #{my_age}"
+
+
+def my_method
+  puts "hello there"
+end
+
+binding.pry
